@@ -11,6 +11,6 @@ export const state = () => ({
     async nuxtServerInit({ commit }) {
       const posts = await this.$axios.$get('http://localhost:1337/api/posts')
         .catch((e) => console.error(e))
-      commit('STORE_POSTS', posts)
+      commit('STORE_POSTS', posts.data)
     },
   }
