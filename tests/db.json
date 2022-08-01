@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "title": "First post title",
+                "description": "First post description",
+                "createdAt": "2022-08-01T17:30:58.393Z",
+                "updatedAt": "2022-08-01T17:34:31.686Z",
+                "publishedAt": "2022-08-01T17:33:25.361Z",
+                "content": "# First Post\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "title": "Second post title",
+                "description": "Second post description",
+                "createdAt": "2022-08-01T17:33:08.527Z",
+                "updatedAt": "2022-08-01T17:33:17.476Z",
+                "publishedAt": "2022-08-01T17:33:17.473Z",
+                "content": "# Second Post\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "title": "Third post title",
+                "description": "Third post description",
+                "createdAt": "2022-08-01T17:34:03.040Z",
+                "updatedAt": "2022-08-01T17:34:05.682Z",
+                "publishedAt": "2022-08-01T17:34:05.681Z",
+                "content": "# Third Post\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "title": "Fourth post title",
+                "description": "Fourth post description",
+                "createdAt": "2022-08-01T17:35:15.870Z",
+                "updatedAt": "2022-08-01T17:35:17.894Z",
+                "publishedAt": "2022-08-01T17:35:17.892Z",
+                "content": "# Fourth Post\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "title": "Fifth post title",
+                "description": "Fifth post description",
+                "createdAt": "2022-08-01T17:35:54.328Z",
+                "updatedAt": "2022-08-01T17:35:56.369Z",
+                "publishedAt": "2022-08-01T17:35:56.367Z",
+                "content": "# Fifth Post\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 5
+        }
+    }
+}
